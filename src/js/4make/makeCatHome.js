@@ -1,4 +1,4 @@
-
+// makeCatHome.js
 
 function makeCatHome(whichId, whichX, whichY)
 {

@@ -1,10 +1,6 @@
 // worldVariables.js
 
-// let gameLoop;
 
-// let fps = 60;
-
-// let counter = 0;
 
 //----//
 

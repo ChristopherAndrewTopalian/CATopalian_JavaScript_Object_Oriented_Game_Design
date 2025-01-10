@@ -40,7 +40,7 @@ function setFilters(whichId, whichFilter)
     ge(whichId).style.filter = theFilters;
 }
 
-//--//
+//----//
 
 // Dedicated to God the Father
 // All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025

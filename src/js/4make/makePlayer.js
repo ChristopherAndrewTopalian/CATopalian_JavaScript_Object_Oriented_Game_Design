@@ -87,7 +87,6 @@ function makePlayer(whichCharacter)
 
     player.style.zIndex = 5;
 
-
     ba(player);
 
     makeElementDraggable(player);
