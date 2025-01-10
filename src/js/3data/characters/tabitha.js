@@ -20,7 +20,7 @@ let tabitha = {
     energy: 100,
     level: 1,
     layer: 7,
-    speed: 10,
+    speed: 2,
     texture: tabithaTextures[0],
     texture2: tabithaTextures[1],
     flipHorizontal: false, 
