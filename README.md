@@ -4,4 +4,6 @@ A JavaScript Object Oriented Game Development Application
 
 //----//
 
-https://github.com/ChristopherAndrewTopalian/Topalian_JavaScript_Object_Oriented_Game_Design
+USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Object_Oriented_Game_Design/CATopalian_JavaScript_Object_Oriented_Game_Design.html
+
+CODE: https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Object_Oriented_Game_Design
