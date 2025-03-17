@@ -1,4 +1,4 @@
-# Topalian JavaScript Object Oriented  Game Design
+# CATopalian JavaScript Object Oriented  Game Design
 
 A JavaScript Object Oriented Game Development Application
 
