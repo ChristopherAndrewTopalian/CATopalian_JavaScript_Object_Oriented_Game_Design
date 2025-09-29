@@ -4,6 +4,8 @@ function whenLoaded()
 {
     makeBackground();
 
+    makeTitleOfApp();
+
     menuLeft();
 
     makeCatHome('catHomeDiv', 20, 400);
