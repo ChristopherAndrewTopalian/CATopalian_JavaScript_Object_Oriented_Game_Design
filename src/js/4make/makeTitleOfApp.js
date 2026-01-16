@@ -4,8 +4,8 @@ function makeTitleOfApp()
 {
     let mainDiv = ce('div');
     mainDiv.style.position = 'fixed';
-    mainDiv.style.right = '5px';
-    mainDiv.style.top = '5px';
+    mainDiv.style.right = '8px';
+    mainDiv.style.top = '0px';
     mainDiv.style.zIndex = 1;
     ba(mainDiv);
 
@@ -27,7 +27,7 @@ function makeTitleOfApp()
 //----//
 
 // Dedicated to God the Father
-// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 // https://github.com/ChristopherTopalian
 // https://github.com/ChristopherAndrewTopalian
 // https://sites.google.com/view/CollegeOfScripting
